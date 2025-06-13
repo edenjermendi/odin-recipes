@@ -72,3 +72,16 @@ h2 {
     max-width: 500px;
     margin: 0 auto;
 }
+
+#crepes {
+    height: 300px;
+    width: 400px;
+}
+
+.title-hr {
+    margin-top: -22px;
+    margin-bottom: 28px;
+    background-color: #6b6b6b;
+    height: 2px;
+    max-width: 100%;
+}
